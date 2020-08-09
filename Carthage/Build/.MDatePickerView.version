@@ -1,0 +1,11 @@
+{
+  "commitish" : "1.2.3",
+  "iOS" : [
+    {
+      "hash" : "78ac110387ca06c3be2c187c87cfcc5a12bdda653ece11da75f26ae696850c24",
+      "name" : "MDatePickerView",
+      "linking" : "dynamic",
+      "swiftToolchainVersion" : "5.2.4 (swiftlang-1103.0.32.9 clang-1103.0.32.53)"
+    }
+  ]
+}

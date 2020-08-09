@@ -1,0 +1,11 @@
+framework module MDatePickerView {
+  umbrella header "MDatePickerView.h"
+
+  export *
+  module * { export * }
+}
+
+module MDatePickerView.Swift {
+    header "MDatePickerView-Swift.h"
+    requires objc
+}
